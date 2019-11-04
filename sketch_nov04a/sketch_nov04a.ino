@@ -1,3 +1,5 @@
+//David Ramírez Reyes//
+
 #define   BUZZER   7
 #define   ENTRADA_A  A0
 #define   ENTRADA_B  A1
